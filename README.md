@@ -12,5 +12,5 @@ Março de 2022.
 ## 🛠 Tecnologias
 
 Javascript, HTML, CSS
-
-A Pen created on CodePen.io. Original URL: [https://codepen.io/bifalken/pen/rNYbvzQ](https://codepen.io/bifalken/pen/rNYbvzQ).
+ 
+Você pode testá-la aqui: [https://codepen.io/bifalken/pen/rNYbvzQ](https://codepen.io/bifalken/pen/rNYbvzQ).
