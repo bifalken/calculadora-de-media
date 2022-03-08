@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - Calculadora de média - Imersão Dev da Alura</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<html>
+
+<head>
+  <title> Imersão Dev Alura - Aula #1</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <header class="container">
+    <h1 class="page-title">Calculadora de média</h1>
+    <p class="page-subtitle">
+      Descubra qual a média de suas notas e se você foi aprovado(a) ou não!
+    </p>
+  </header>
+  <section>
+    <form>
+      <h2>Preencha com suas notas:</h2>
+      <label>Nota do primeiro bimestre:</label>
+      <input type="text" id="notaPrimeiroBimestre" required="">
+
+      <label>Nota do segundo bimestre:</label>
+      <input type="text" id="notaSegundoBimestre" required="">
+
+      <label>Nota do terceiro bimestre:</label>
+      <input type="text" id="notaTerceiroBimestre" required="">
+
+      <label>Nota do quarto bimestre:</label>
+      <input type="text" id="notaQuartoBimestre" required="">
+    </form>
+    <input value="Calcular média" class="enviar" onclick="calculaNota()" type="button">
+    <p id="aprovacao"></p>
+  </section>
+  <footer>
+    <p>Criado por Bibiana Falkenbach | <a href="https://www.linkedin.com/in/bibiana-falkenbach/">Linkedin</a> | <a href="https://github.com/bifalken">Github</a> </p>
+    <a href="https://alura.com.br/" target="_blank">
+  </footer>
+</body>
+
+</html>
+<!-- partial -->
+  <script  src="./script.js"></script>
+
+</body>
+</html>

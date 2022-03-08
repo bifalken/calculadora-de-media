@@ -1,0 +1,40 @@
+body {
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  background-color: #a5a1ff;
+}
+
+.page-title {
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  margin-top: 5px;
+}
+
+section {
+  color: #fff;
+}
+
+.form {
+  margin: 40px 0;
+}
+
+form label {
+  display: block;
+  margin: 0 0 5px;
+  margin-top: 15px;
+}
+
+.enviar {
+  width: 25%;
+  padding: 10px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+#aprovacao {
+  margin-bottom: 50px;
+}
